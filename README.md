@@ -1,5 +1,5 @@
 # Commitmas 2015
-Trying this out for 2015, it's is all Scott's fault...
+Trying this out for 2015, it's is all [Scott's](@sboss) fault...
 
 ## What I learned
 ###Day 1
@@ -13,9 +13,9 @@ Trying this out for 2015, it's is all Scott's fault...
 - [Visual Studio Code](https://code.visualstudio.com/) was something I hadn't seen before either
   - Looks like it's built off/like Atom/Brackets
 
-- Learning some markdown as well...
+- Learned some markdown as well...
   - Installed a couple markdown plugins in Atom. The preview pane is nice.
-    - Markdown Preview Plus
+    - Markdown Preview Plus, Ctrl-Shift-M to see the preview.
     - It seems that one of the markdown plugins I installed also cleans up the formatting and adds some things when I save the file. Neat
 
   - [Github's Markdown Basics](https://help.github.com/articles/markdown-basics/) link is a handy reference too.
