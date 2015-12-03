@@ -24,3 +24,17 @@ Trying this out for 2015, it's is all [Scott's](@sboss) fault...
   - I know I'm far from perfect here...
   - Never thought about doing longer commit messages in vim
 
+## What I did
+### Day 1
+- Missed doing anything here cause of Taco Tuesday and Destiny reset activities
+
+### Day 2
+- [x] Replaced my old monster CRT monitors with two sweet looking 24in ACER LCD displays.
+- [x] Setup the repo for Commitmas activities
+- [x] Took part in the Commitmas webinar tonight
+  - [Tweeted](https://twitter.com/Woody2143/status/672223321975627777) about PuTTy Agent
+  - And a follow-up [tweet](https://twitter.com/Woody2143/status/672226386577375234) after my tweet was mentioned on the webinar
+
+- [x] Read up on markdown
+- [x] Watched the Day 1 webinar.
+- [ ] find a repo to fork and work on...
