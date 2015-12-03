@@ -24,6 +24,14 @@ Trying this out for 2015, it's is all [Scott's](https://github.com/sboss/) fault
   - I know I'm far from perfect here...
   - Never thought about doing longer commit messages in vim
 
+###Day 3
+- Got messing around with [jekyll](http://jekyllrb.com/docs/quickstart/) to setup my github page (see beow)
+  - I like it for the most part, seems to be a simple enough blog engine
+  - Had to dig in to sass a bit to adjust the template
+  - they are drawing the icons directly for the social media sites in svg, looks weird in code
+
+- Learned a little more about [markdown](http://daringfireball.net/projects/markdown/syntax); syntax and what not.
+
 ## What I did
 ### Day 1
 - Missed doing anything here cause of Taco Tuesday and Destiny reset activities
@@ -37,4 +45,10 @@ Trying this out for 2015, it's is all [Scott's](https://github.com/sboss/) fault
 
 - [x] Read up on markdown
 - [x] Watched the Day 1 webinar.
+- [ ] find a repo to fork and work on...
+
+### Day 3
+- [x] Decided to create a github page; [woody2143.github.io](http://woody2143.github.io/)
+  - This took a bit of time to tweak, but so far I like it well enough.
+
 - [ ] find a repo to fork and work on...
