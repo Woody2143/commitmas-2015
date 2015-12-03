@@ -1,5 +1,5 @@
 # Commitmas 2015
-Trying this out for 2015, it's is all [Scott's](@sboss) fault...
+Trying this out for 2015, it's is all [Scott's](https://github.com/sboss/) fault...
 
 ## What I learned
 ###Day 1
